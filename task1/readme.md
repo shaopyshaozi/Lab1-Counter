@@ -14,4 +14,4 @@ Then, by doing a short cut in a presetting shell script, the verilator inputs bo
 
 Vcounter is a excutable file that can be used in gtkWave to generate a simulated waveform for each cycle. The program successfully generating a counting output in gtkWave.
 
-![Result from gtkWave](\images\gtkWave)
+![Result from gtkWave](https://github.com/shaopyshaozi/Lab1-Counter/blob/master/images/gtkWave.jpg)
